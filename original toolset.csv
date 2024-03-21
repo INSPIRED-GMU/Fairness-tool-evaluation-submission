@@ -1,0 +1,11 @@
+Tool,Ethical Tags,URL
+AI Fairness 360,"bias, fairness, bias-finder, discrimination, bias-correction, ibm-research-ai, bias-reduction, fairness-testing, bias-detection, fairness-awareness-model, fairness-ai, trusted-ai",https://github.com/Trusted-AI/AIF360
+Fairlearn,"fairness, fairness-ai, fairness-ml, responsible-ai, unfairness-mitigation, fairness-assessment, harms, group-fairness",https://github.com/fairlearn/fairlearn
+Fairness-indicators,"fairness ml, fairness-indicators",https://github.com/tensorflow/fairness-indicators
+Google What-if,ml fairness,https://github.com/pair-code/what-if-tool
+Aequitas,"bias, fairness, machine-bias, fairness-testing",https://github.com/dssg/aequitas
+Themis-ml,"transparency, fairness accountability, discrimination, ethics, social-bias",https://github.com/cosmicBboy/themis-ml
+LiFT,"fairness, fairness-ai, fairness-ml",https://github.com/linkedin/LiFT
+FAT-Forensics,"transparency, fairness, accountability, interpretability, interpretable-ai, explainable-ai",https://github.com/fat-forensics/fat-forensics
+Deon,"ethics, data-ethics",https://github.com/drivendataorg/deon
+Parfait-ML,bias in ML,https://github.com/Tizpaz/Parfait-ML

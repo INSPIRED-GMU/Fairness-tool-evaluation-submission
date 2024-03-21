@@ -1,0 +1,28 @@
+tools,link,description,
+fairsight,https://github.com/ayong8/FairSight,FairSight is a viable fair decision making system to assist decision makers in achieving fair decision making through the machine learning workflow.,
+fairMLHealth,https://github.com/KenSciResearch/fairMLHealth,Healthcare-specific tools for bias analysis,
+fairkit-learn,https://github.com/INSPIRED-GMU/fairkit-learn,"airkit-learn is an open-source, publicly available Python toolkit designed to help data scientists evaluate and explore machine learning models with respect to quality and fairness metrics simultaneously.",
+fairness-in-ml,https://github.com/equialgo/fairness-in-ml,"This repository contains the full code for the ""Towards fairness in machine learning with adversarial networks"" blog post.
+
+Resources",
+webmachinelearning-ethics,https://github.com/webmachinelearning/webmachinelearning-ethics,ethical Principles for Web Machine Learning,
+DecodingTrust,https://github.com/AI-secure/DecodingTrust,A Comprehensive Assessment of Trustworthiness in GPT Models,
+guardian-ai,https://github.com/oracle/guardian-ai,Oracle Guardian AI Open Source Project is a library consisting of tools to assess fairness/bias and privacy of machine learning models and data sets.,
+OpenXAI,https://github.com/AI4LIFE-GROUP/OpenXAI,OpenXAI : Towards a Transparent Evaluation of Model Explanations,
+ml-fairness-validity,https://github.com/cakiki/ml-fairness-validity,Exploring issues of fairness and validity in machine learning pipelines,
+ml-fairness-gym,https://github.com/google/ml-fairness-gym,"ML-fairness-gym is a set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments. As the importance of machine learning fairness has become increasingly apparent, recent research has focused on potentially surprising long term behaviors of enforcing measures of fairness that were originally defined in a static setting. Key findings have shown that under specific assumptions in simplified dynamic simulations, long term effects may in fact counteract the desired goals. Achieving a deeper understanding of such long term effects is thus a critical direction for ML fairness research. ML-fairness-gym implements a generalized framework for studying and probing long term fairness effects in carefully constructed simulation scenarios where a learning agent interacts with an environment over time. This work fits into a larger push in the fair machine learning literature to design decision systems that induce fair outcomes in the long run, and to understand how these systems might differ from those designed to enforce fairness on a one-shot basis.
+",
+langtest,https://github.com/JohnSnowLabs/langtest,"Deliver safe & effective language models
+",
+FairPut ,https://github.com/kozodoi/fairness,R package for computing and visualizing fair ML metrics,
+XAI ,https://github.com/EthicalML/xai,XAI - An eXplainability toolbox for machine learning,
+"responsible-ai-
+toolbox","https://github.com/microsoft/responsible-ai-
+toolbox",,"Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions."
+Fairnes.jl,https://github.com/ashryaagr/Fairness.jl,,Julia Toolkit with fairness metrics and bias mitigation algorithms
+fairmodels,https://github.com/ModelOriented/fairmodels,,"Flexible tool for bias detection, visualization, and mitigation"
+ResponsiblyAI,https://github.com/ResponsiblyAI/responsibly,,Toolkit for Auditing and Mitigating Bias and Fairness of Machine Learning System
+FairNAS,https://github.com/xiaomi-automl/FairNAS,,FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search
+synthcity ,https://github.com/vanderschaarlab/synthcity,,"A library for generating and evaluating synthetic tabular data for privacy, fairness and data augmentation."
+cotk,https://github.com/thu-coai/cotk,,Conversational Toolkit. An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation
+EthicML,https://github.com/wearepal/EthicML,,"Package for evaluating the performance of methods which aim to increase fairness, accountability and/or transparency"
